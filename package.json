@@ -1,0 +1,11 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.4.0"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.1.0",
+    "babel-cli": "^6.26.0"
+  }
+}
